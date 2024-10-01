@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(249, 238, 223);
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
+h1 {
+    color: rgb(238, 71, 71);
+    font-size: 30px;
+    text-align: center;
+}
+h2 {
+    color:rgb(156, 29, 156) ;
+    font-size: 20px;
+}
+h3 {
+    color: rgb(147, 127, 47);
+    font-size: 15px;
+}
+ol {
+    list-style-position: inside
+}
+
+.centered-list{
+    list-style-position: inside;
+    text-align: center;
+}
+.text-left{
+    text-align: left;
+}
+a{
+        margin-right: 10px;
+}
+.italic{
+    font-style: italic;
+}
